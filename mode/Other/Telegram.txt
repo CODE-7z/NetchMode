@@ -1,0 +1,5 @@
+# Telegram, 0
+win10act\.exe
+Telegram\.exe
+unins000\.exe
+Updater\.exe
